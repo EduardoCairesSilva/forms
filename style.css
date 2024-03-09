@@ -1,0 +1,28 @@
+#google-form {
+    background-color: #333;
+    padding: 20px;
+}
+
+#google-form form {
+    background-color: #fff;
+    width: 400px;
+    padding: 20px;
+    margin: auto;
+}
+
+#google-form input {
+    display: block;
+    font-size: 18px;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+#google-form button {
+    border: none;
+    background-color: #eee;
+    font-weight: bold;
+    padding: 5px 8px;
+    width: 100%;
+}
